@@ -1,0 +1,12 @@
+,auc_cv
+estado (address),0.4983
+current_job,0.5038
+company,0.4937
+email_domain,0.5028
+credit_card_provider,0.5036
+formato placa,0.5096
+hora solicitud,0.5056
+dia semana,0.5017
+apellido,0.5068
+is_married,0.5053
+smoker,0.5028

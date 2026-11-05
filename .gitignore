@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Datos pesados (~60 MB). Descomentar si el repo no debe llevar los datos:
+# *.numbers
+# train_dataset.csv
+# test_dataset.csv
